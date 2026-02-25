@@ -36,9 +36,15 @@
 .read-the-docs {
   color: #888;
 }
-.card{
-  border: "1px solid white";
+.card {
+  border:1px solid white;
   padding: 20px;
   margin: 20px;
   border-radius: 20px;
+}
+.userStyle {
+border: 1px solid crimson;
+padding: 20px;
+margin: 20px;
+border-radius: 20px;
 }
